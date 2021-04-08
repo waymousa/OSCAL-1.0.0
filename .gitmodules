@@ -1,0 +1,10 @@
+[submodule "docs/themes/uswds"]
+	path = docs/themes/uswds
+	url = https://github.com/usnistgov/hugo-uswds.git
+	branch = master
+	update = rebase
+[submodule "build/metaschema"]
+	path = build/metaschema
+	url = https://github.com/usnistgov/metaschema.git
+	branch = metaschema-m4-integration
+	update = rebase
